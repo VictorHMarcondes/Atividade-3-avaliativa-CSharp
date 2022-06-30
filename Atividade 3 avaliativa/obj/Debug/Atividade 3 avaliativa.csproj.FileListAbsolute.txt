@@ -1,0 +1,11 @@
+C:\Users\victor.hmsilva20\OneDrive - SENAC - SP\Documentos\uc12\Atividade 3 avaliativa\Atividade 3 avaliativa\bin\Debug\Atividade 3 avaliativa.exe.config
+C:\Users\victor.hmsilva20\OneDrive - SENAC - SP\Documentos\uc12\Atividade 3 avaliativa\Atividade 3 avaliativa\bin\Debug\Atividade 3 avaliativa.exe
+C:\Users\victor.hmsilva20\OneDrive - SENAC - SP\Documentos\uc12\Atividade 3 avaliativa\Atividade 3 avaliativa\bin\Debug\Atividade 3 avaliativa.pdb
+C:\Users\victor.hmsilva20\OneDrive - SENAC - SP\Documentos\uc12\Atividade 3 avaliativa\Atividade 3 avaliativa\obj\Debug\Atividade 3 avaliativa.csproj.AssemblyReference.cache
+C:\Users\victor.hmsilva20\OneDrive - SENAC - SP\Documentos\uc12\Atividade 3 avaliativa\Atividade 3 avaliativa\obj\Debug\Atividade 3 avaliativa.csproj.SuggestedBindingRedirects.cache
+C:\Users\victor.hmsilva20\OneDrive - SENAC - SP\Documentos\uc12\Atividade 3 avaliativa\Atividade 3 avaliativa\obj\Debug\Atividade_3_avaliativa.Form1.resources
+C:\Users\victor.hmsilva20\OneDrive - SENAC - SP\Documentos\uc12\Atividade 3 avaliativa\Atividade 3 avaliativa\obj\Debug\Atividade_3_avaliativa.Properties.Resources.resources
+C:\Users\victor.hmsilva20\OneDrive - SENAC - SP\Documentos\uc12\Atividade 3 avaliativa\Atividade 3 avaliativa\obj\Debug\Atividade 3 avaliativa.csproj.GenerateResource.cache
+C:\Users\victor.hmsilva20\OneDrive - SENAC - SP\Documentos\uc12\Atividade 3 avaliativa\Atividade 3 avaliativa\obj\Debug\Atividade 3 avaliativa.csproj.CoreCompileInputs.cache
+C:\Users\victor.hmsilva20\OneDrive - SENAC - SP\Documentos\uc12\Atividade 3 avaliativa\Atividade 3 avaliativa\obj\Debug\Atividade 3 avaliativa.exe
+C:\Users\victor.hmsilva20\OneDrive - SENAC - SP\Documentos\uc12\Atividade 3 avaliativa\Atividade 3 avaliativa\obj\Debug\Atividade 3 avaliativa.pdb
